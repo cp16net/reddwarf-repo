@@ -1,0 +1,10 @@
+<manifest>
+    <remote name="origin" fetch="https://github.com"/>
+
+    <default revision="refs/heads/master" remote="origin" sync-j="4"/>
+
+    <project name="stackforge/reddwarf" remote="origin" />
+    <project name="stackforge/python-reddwarfclient" remote="origin" />
+    <project name="stackforge/reddwarf-integration" remote="origin" />
+
+</manifest>
